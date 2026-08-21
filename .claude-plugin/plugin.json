@@ -1,0 +1,15 @@
+{
+  "name": "jay-yang-skill",
+  "description": "Jay Yang 的个人技能仓库：中文审校纠错等 Claude Code 技能集合",
+  "version": "1.0.0",
+  "author": {
+    "name": "Yang Jie"
+  },
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "claude-code",
+    "chinese-proofreading",
+    "intelligent-reviewing"
+  ]
+}

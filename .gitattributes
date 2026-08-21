@@ -1,0 +1,3 @@
+# 统一换行符：脚本一律 LF
+* text=auto
+*.sh text eol=lf
